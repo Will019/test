@@ -9,5 +9,4 @@ def hello(name,age):
 name=str(input("What is your name?: "))
 age=int(input("How old are you?: "))
 
-#something
 hello(name,age)
